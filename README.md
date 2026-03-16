@@ -5,7 +5,7 @@
 ### The Definitive Field Manual for Shipping Mission-Critical AI Systems
 
 ![Stars](https://img.shields.io/github/stars/ElMoorish/ai-engineer-vault?style=for-the-badge)
-![Contributors](https://img.shields.io/github/contributors/ElMoorish/ElMoorish/ai-engineer-vault?style=for-the-badge)
+![Contributors](https://img.shields.io/github/contributors/ElMoorish/ai-engineer-vault?style=for-the-badge)
 ![Last Commit](https://img.shields.io/github/last-commit/ElMoorish/ai-engineer-vault?style=for-the-badge)
 ![License](https://img.shields.io/github/license/ElMoorish/ai-engineer-vault?style=for-the-badge)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)
